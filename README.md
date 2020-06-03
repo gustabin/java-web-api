@@ -7,5 +7,6 @@ Generar pago
 Avisar Pago
 Alumnos
 Ingreso al Alumni
+<br>
 Ver calendario de cursos
 
